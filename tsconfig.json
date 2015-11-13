@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "ES3",
+		"sourceMap": true,
+		"out": "dist"
+	},
+	"rules": {
+		"quotemark": [true, "single"]
+	}
+}
