@@ -6,7 +6,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "lodash": "npm:lodash@^3.10.1",
+    "lodash": "npm:lodash@^4.0.0",
     "ts": "github:frankwallis/plugin-typescript@^2.2.1"
   },
   "devDependencies": {
