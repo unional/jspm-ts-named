@@ -10,6 +10,6 @@
     "ts": "github:frankwallis/plugin-typescript@^2.2.1"
   },
   "devDependencies": {
-    "typescript": "npm:typescript@4.9.3"
+    "typescript": "npm:typescript@4.9.5"
   }
 }
